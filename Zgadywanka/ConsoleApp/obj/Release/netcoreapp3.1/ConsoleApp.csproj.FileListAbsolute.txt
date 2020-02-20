@@ -1,0 +1,10 @@
+D:\Users\ktokarz\Documents\GitHub\zgadywanka\Zgadywanka\ConsoleApp\bin\Release\netcoreapp3.1\ConsoleApp.exe
+D:\Users\ktokarz\Documents\GitHub\zgadywanka\Zgadywanka\ConsoleApp\bin\Release\netcoreapp3.1\ConsoleApp.deps.json
+D:\Users\ktokarz\Documents\GitHub\zgadywanka\Zgadywanka\ConsoleApp\bin\Release\netcoreapp3.1\ConsoleApp.runtimeconfig.json
+D:\Users\ktokarz\Documents\GitHub\zgadywanka\Zgadywanka\ConsoleApp\bin\Release\netcoreapp3.1\ConsoleApp.runtimeconfig.dev.json
+D:\Users\ktokarz\Documents\GitHub\zgadywanka\Zgadywanka\ConsoleApp\bin\Release\netcoreapp3.1\ConsoleApp.dll
+D:\Users\ktokarz\Documents\GitHub\zgadywanka\Zgadywanka\ConsoleApp\bin\Release\netcoreapp3.1\ConsoleApp.pdb
+D:\Users\ktokarz\Documents\GitHub\zgadywanka\Zgadywanka\ConsoleApp\obj\Release\netcoreapp3.1\ConsoleApp.AssemblyInfoInputs.cache
+D:\Users\ktokarz\Documents\GitHub\zgadywanka\Zgadywanka\ConsoleApp\obj\Release\netcoreapp3.1\ConsoleApp.AssemblyInfo.cs
+D:\Users\ktokarz\Documents\GitHub\zgadywanka\Zgadywanka\ConsoleApp\obj\Release\netcoreapp3.1\ConsoleApp.dll
+D:\Users\ktokarz\Documents\GitHub\zgadywanka\Zgadywanka\ConsoleApp\obj\Release\netcoreapp3.1\ConsoleApp.pdb
