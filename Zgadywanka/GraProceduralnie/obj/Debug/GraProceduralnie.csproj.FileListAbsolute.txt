@@ -1,0 +1,6 @@
+D:\Users\ktokarz\Documents\GitHub\zgadywanka\Zgadywanka\GraProceduralnie\obj\Debug\GraProceduralnie.csprojAssemblyReference.cache
+D:\Users\ktokarz\Documents\GitHub\zgadywanka\Zgadywanka\GraProceduralnie\bin\Debug\GraProceduralnie.exe.config
+D:\Users\ktokarz\Documents\GitHub\zgadywanka\Zgadywanka\GraProceduralnie\bin\Debug\GraProceduralnie.exe
+D:\Users\ktokarz\Documents\GitHub\zgadywanka\Zgadywanka\GraProceduralnie\bin\Debug\GraProceduralnie.pdb
+D:\Users\ktokarz\Documents\GitHub\zgadywanka\Zgadywanka\GraProceduralnie\obj\Debug\GraProceduralnie.exe
+D:\Users\ktokarz\Documents\GitHub\zgadywanka\Zgadywanka\GraProceduralnie\obj\Debug\GraProceduralnie.pdb

@@ -7,6 +7,8 @@ namespace ConsoleApp
         static void Main(string[] args)
         {
             Console.WriteLine("Gra, kto dziś śpi od ściany! za dużo - za mało");
+            
+
             // 1. komputer losuje
             #region losowanie
             var los = new Random(); //tworzę obiekt typu random
